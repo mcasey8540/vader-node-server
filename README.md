@@ -1,4 +1,4 @@
 # README #
 
-Vader is a NodeJS Server and API 
+Vader is a Node.js API server
 
