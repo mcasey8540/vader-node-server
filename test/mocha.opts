@@ -1,0 +1,5 @@
+--require server.js
+--reporter spec
+--ui bdd
+--timeout 10000
+--recursive
